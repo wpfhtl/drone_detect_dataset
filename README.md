@@ -1,5 +1,8 @@
 # drone_detect_dataset
 This is a dataset for drone detection.
+## Download of dataset:
+link：https://pan.baidu.com/s/12Lx8icQKwWP83DpaHNrivg 
+password：q6od
 ## There are two folders and three list files.
 ### "all_image_list.txt" is the list for all the images.
 ### "train_drone_list.txt" is the list for the training images.
