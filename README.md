@@ -12,4 +12,4 @@ password：q6od
 ## Reference
 If you find this dataset useful, please cite our paper:
 Leong WL, Wang P, Huang S, Ma Z, Yang H, Sun J, Zhou Y, Hamid MR, Srigrarom S, Teo R. Vision-based sense and avoid with monocular vision and real-time object detection for UAVs. In2021 international conference on unmanned aircraft systems (ICUAS) 2021 Jun 15 (pp. 1345-1354). IEEE.
-and we have other papers under review, we will update the status further.
+Pengfei Wang, Sunan Huang, Sutthiphong Srigrarom, Wai Lun Leong, Zhengtian Ma, Rodney Swee Huat Teo. Low-cost camera based sense and avoid in unmanned aerial vehicles: sensing and control methods. Mechatronics, 2022.
